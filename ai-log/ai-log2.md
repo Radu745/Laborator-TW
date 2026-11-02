@@ -15,4 +15,4 @@ Problema întâmpinată: După ce am creat folderele necesare (data, utils, api)
 
 Prompt utilizat: "Am făcut curățenie în proiect și am creat cele 3 foldere. Cum continui pașii pentru a lega fișierul de date de funcțiile de prelucrare și de fișierul principal?"
 
-Soluția oferită de AI: AI-ul mi-a explicat mecanismul de import/export din JavaScript modern. M-a ajutat să înțeleg cum să folosesc export const pentru fiecare funcție individuală în src/utils/destinatii.js și cum să centralizez toate importurile la finalul fișierului src/main.jsx pentru a rula testele și a afișa rezultatele în consolă.
+Soluția oferită de AI: AI-ul mi-a explicat mecanismul de import/export din JavaScript modern. M-a ajutat să înțeleg cum să folosesc export const pentru fiecare funcție individuală în src/utils/destinatii.js și cum să centralizez toate importurile la finalul fișierului src/main.jsx pentru a rula testele și a afișa rezultatele în consolă.  
